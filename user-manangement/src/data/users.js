@@ -1,4 +1,4 @@
-[
+const USERS =  [
     {
         "id": 1,
         "name": "Leanne Graham",
@@ -140,3 +140,5 @@
         "website": "ambrose.net",
     }
 ]
+
+export default USERS
